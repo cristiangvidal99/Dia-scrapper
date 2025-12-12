@@ -1,0 +1,25 @@
+{
+  "name": "dia-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiangvidal99/Dia-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cristiangvidal99/Dia-scrapper/issues"
+  },
+  "homepage": "https://github.com/cristiangvidal99/Dia-scrapper#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2"
+  }
+}

@@ -1,1 +1,1 @@
-[<span class="diaio-store-5-x-sellingPriceValue">$ 6.490</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 3.419</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 11.190</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 3.220</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 13.350</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 3.750</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 10.850</span>, <span class="diaio-store-5-x-sellingPriceValue">$ 3.750</span>]
+[]
